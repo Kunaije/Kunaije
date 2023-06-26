@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunaije
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me @ kunaijekk@gmail.com
 
